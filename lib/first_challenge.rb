@@ -1,5 +1,5 @@
 def first_challenge
-    contacts = {
+  contacts = {
       "Jon Snow" => {
         name: "Jon",
         email: "jon_snow@thewall.we", 
@@ -26,7 +26,6 @@ def first_challenge
       end
     end
   end
-  contacts
   #remember to return your newly altered contacts hash!
   contacts
 end
